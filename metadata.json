@@ -1,0 +1,6 @@
+{
+  "name": "From Waste To Wealth - Smart Waste Management Platform",
+  "description": "Platform manajemen sampah cerdas yang menghubungkan rumah tangga dengan bank sampah lokal - From Waste To Wealth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
